@@ -13,7 +13,7 @@ The **DYNAMIC NARRATIVES** project addresses the need for efficient video conten
 ## System Overview
 The system employs cutting-edge machine learning algorithms to convert textual input into engaging video content. By analyzing various formats like articles, scripts, and social media posts, the model generates high-quality videos with synchronized visuals, compelling storytelling, and audio elements. This approach democratizes content creation by allowing users to create impactful videos without the need for specialized video production skills or resources. The end result is a user-friendly, scalable solution ideal for social media, marketing campaigns, and personalized multimedia presentations.
 
-[<img src="https://github.com/Dipin-Raj/Object-Recognition-Verbalization-Tool-for-Early-Childhood-Education/blob/main/Images/Flowcharts/Screenshot%202024-11-14%20005240.png" style="transform: rotate(90deg); width: 50%;"/>](https://github.com/Rashaz-Raf/AI_Powered_Video_Synthesis/blob/main/Workspace/Images/Graphical_Abstract.png)
+https://github.com/Rashaz-Raf/AI_Powered_Video_Synthesis/blob/main/Workspace/Images/Graphical_Abstract.png?raw=true
 
 ## Problem Definition 
 Traditional video creation requires considerable time and expertise, limiting accessibility. This project solves the need for efficient automated text-to-video conversion by overcoming challenges such as natural language understanding, audiovisual synchronization, and content selection. The goal is to streamline video production and enable creators to generate tailored, high-quality video content with ease, making it accessible to individuals and organizations across diverse sectors.
