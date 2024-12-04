@@ -27,7 +27,7 @@ The project uses a deep learning-based approach to convert text into video conte
 4. **Video Compilation**: The generated images and audio are compiled into a cohesive video, leveraging tools like MoviePy for editing and seamless integration of the various elements.
 
 ### Methodology Flowchart
-<img src="https://github.com/Dipin-Raj/Object-Recognition-Verbalization-Tool-for-Early-Childhood-Education/blob/main/Images/Flowcharts/Flowchart%20.jpg" alt="Methodology Flowchart" style="width: 50%;"/>
+<img src="https://github.com/Rashaz-Raf/AI_Powered_Video_Synthesis/blob/main/Workspace/Images/Methodology_FlowChart.png" alt="Methodology Flowchart" style="width: 50%;"/>
 
 ## Results
 The automated text-to-video system successfully generated high-quality videos from textual inputs, demonstrating its potential to streamline the content creation process. For instance, a prompt like "Winter" resulted in a visually appealing video with relevant images and synchronized audio narration. The system effectively combined visuals, audio, and text, producing cohesive and engaging videos within minutes. The process maintained a high level of accuracy and consistency, ensuring that the generated content was aligned with the input text. This innovative approach reduces the time and effort required for video production while maintaining professional quality, making it a valuable tool for creators across various industries.
