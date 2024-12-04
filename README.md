@@ -67,4 +67,4 @@ The full codebase for the **DYNAMIC NARRATIVES** is available [here](https://git
 Refer to the complete project documentation for detailed insights into the methodology, implementation, and results.
 
 ### Project Report Documentation
-[Project Report Final PDF](https://github.com/Dipin-Raj/Object-Recognition-Verbalization-Tool-for-Early-Childhood-Education/blob/main/Documents/Project_Report_Final.pdf)
+[Project Report Final PDF](https://github.com/Rashaz-Raf/AI_Powered_Video_Synthesis/blob/main/PROJECT_REPORT.pdf)
