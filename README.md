@@ -33,8 +33,9 @@ The project uses a deep learning-based approach to convert text into video conte
 The automated text-to-video system successfully generated high-quality videos from textual inputs, demonstrating its potential to streamline the content creation process. For instance, a prompt like "Winter" resulted in a visually appealing video with relevant images and synchronized audio narration. The system effectively combined visuals, audio, and text, producing cohesive and engaging videos within minutes. The process maintained a high level of accuracy and consistency, ensuring that the generated content was aligned with the input text. This innovative approach reduces the time and effort required for video production while maintaining professional quality, making it a valuable tool for creators across various industries.
 
 ### Results 1
-**Prompt :** : Winter
-**Generated Text :**:
+**Prompt :**  Winter
+
+**Generated Text :**
 Winter is the coldest season of the year, typically characterized by snow, ice, and cold
 temperatures. It is a time when many people enjoy activities such as skiing, snowboarding,
 ice skating, and building snowmen. Winter is also associated with holidays such as
@@ -43,7 +44,8 @@ Christmas and New Year's Eve.
 <img src="https://github.com/Dipin-Raj/Object-Recognition-Verbalization-Tool-for-Early-Childhood-Education/blob/main/Images/Results/Screenshot%202024-11-13%20224200.png" alt="Results 1" style="width: 50%;"/>
 
 ### Results 2
-**Prompt :** : AI
+**Prompt :**  AI
+
 **Generated Text :** 
 AI stands for artificial intelligence, which refers to the simulation of human intelligence in
 machines that are programmed to think and learn like humans. AI technologies include
