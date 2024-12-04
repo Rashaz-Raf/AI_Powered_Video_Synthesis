@@ -61,7 +61,7 @@ Automated text-to-video generation is transforming the content creation landscap
 Future work will focus on improving video quality, refining customization options, and expanding the system’s capabilities to handle more complex content.
 
 ## Code
-The full codebase for the **DYNAMIC NARRATIVES** is available [here](https://github.com/Dipin-Raj/Object-Recognition-Verbalization-Tool-for-Early-Childhood-Education/blob/main/Source%20Code/Object%20Recognition%20and%20Verbalization%20Tool%20for%20Early%20Childhood%20Educatio_Yolo_Final_Code.py).
+The full codebase for the **DYNAMIC NARRATIVES** is available [here](https://github.com/Rashaz-Raf/AI_Powered_Video_Synthesis/tree/main/Source_Code).
 
 ## Documentation
 Refer to the complete project documentation for detailed insights into the methodology, implementation, and results.
