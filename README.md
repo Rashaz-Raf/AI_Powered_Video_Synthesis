@@ -41,7 +41,7 @@ temperatures. It is a time when many people enjoy activities such as skiing, sno
 ice skating, and building snowmen. Winter is also associated with holidays such as
 Christmas and New Year's Eve.
 
-<img src="https://github.com/Dipin-Raj/Object-Recognition-Verbalization-Tool-for-Early-Childhood-Education/blob/main/Images/Results/Screenshot%202024-11-13%20224200.png" alt="Results 1" style="width: 50%;"/>
+<img src="https://github.com/Rashaz-Raf/AI_Powered_Video_Synthesis/blob/main/Workspace/Results/Winter.png" alt="Results 1" style="width: 50%;"/>
 
 ### Results 2
 **Prompt :**  AI
