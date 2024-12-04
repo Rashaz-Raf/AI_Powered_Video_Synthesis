@@ -53,7 +53,7 @@ machine learning, natural language processing, computer vision, and more. AI is 
 wide range of applications, such as virtual assistants, self-driving cars, medical diagnosis,
 and financial analysis.
 
-<img src="https://github.com/Dipin-Raj/Object-Recognition-Verbalization-Tool-for-Early-Childhood-Education/blob/main/Images/Results/Screenshot%202024-11-13%20224219.png" alt="Results 2" style="width: 50%;"/>
+<img src="https://github.com/Rashaz-Raf/AI_Powered_Video_Synthesis/blob/main/Workspace/Results/AI.png" alt="Results 2" style="width: 50%;"/>
 
 ## Conclusion
 Automated text-to-video generation is transforming the content creation landscape by enabling users to produce professional-quality videos without specialized skills. This project opens up new possibilities for creators, businesses, and educators to rapidly generate impactful visual content across industries. The technology democratizes video production, allowing creators to focus on ideas and storytelling, while leaving the technical details to the system.
